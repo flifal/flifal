@@ -3,20 +3,7 @@
 <h3>A front-end developer dedicated to turning imaginative designs into interactive and responsive web interfaces that captivate and delight users.</h3>
 
 <article>
-<h4>Connect with me:</h4>
-<button ><a  target="_blank" href="https://www.linkedin.com/in/mohamed-flifal/"><img height="25px" width="25px" src="./LinkedIn_icon_circle.svg.png" alt="In">Mohamed Flifal</a></button>
+<h4>Connect with me:
+<button ><a  target="_blank" href="https://www.linkedin.com/in/mohamed-flifal/"><img height="25px" width="25px" src="./LinkedIn_icon_circle.svg.png" alt="In"></a></button>
+</h4>
 </article>
-
-<a href="https://www.example.com" class="button">Click Me</a>
-
-<style>
-.button {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: red;
-  color: white;
-  border-radius: 4px;
-  text-decoration: none;
-  border: none;
-}
-</style>
